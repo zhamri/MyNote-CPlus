@@ -1,0 +1,3 @@
+/Users/zhamri/CLionProjects/MyNotes-C++/cmake-build-debug/CMakeFiles/MyNotes-C++.dir
+/Users/zhamri/CLionProjects/MyNotes-C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhamri/CLionProjects/MyNotes-C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir

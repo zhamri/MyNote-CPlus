@@ -1,0 +1,20 @@
+# ninja log v6
+5	139	1718118500803015564	build.ninja	a5890696cebcdadf
+604	678	1718115774548425849	fikri	ffbc9bd4fddd248a
+3	144	1718118500803015564	build.ninja	230c1b389cdd0038
+1	831	1718118500821463454	CMakeFiles/MyNotes-C++.dir/Chapter4/Pointer_Example.cpp.o	5b42bf304ef44d3a
+834	916	1718118501654469957	MyNotes-C++	a7e6307abd6475db
+7	686	1718118536691342713	CMakeFiles/MyNotes-C++.dir/Chapter4/Pointer_Example.cpp.o	5b42bf304ef44d3a
+686	772	1718118537370309261	MyNotes-C++	a7e6307abd6475db
+2	565	1718118578081574337	CMakeFiles/MyNotes-C++.dir/Chapter4/Pointer_Example.cpp.o	5b42bf304ef44d3a
+566	626	1718118578645004271	MyNotes-C++	a7e6307abd6475db
+2	575	1718118652516867860	CMakeFiles/MyNotes-C++.dir/Chapter4/Pointer_Example.cpp.o	5b42bf304ef44d3a
+575	634	1718118653090278058	MyNotes-C++	a7e6307abd6475db
+5	558	1718118743171534050	CMakeFiles/MyNotes-C++.dir/Chapter4/Pointer_Example.cpp.o	5b42bf304ef44d3a
+559	629	1718118743724915475	MyNotes-C++	a7e6307abd6475db
+3	660	1718118786452434077	CMakeFiles/MyNotes-C++.dir/Chapter4/Pointer_Example.cpp.o	5b42bf304ef44d3a
+660	723	1718118787110003992	MyNotes-C++	a7e6307abd6475db
+7	821	1718118838469547689	CMakeFiles/MyNotes-C++.dir/Chapter4/Pointer_Example.cpp.o	5b42bf304ef44d3a
+822	896	1718118839283694087	MyNotes-C++	a7e6307abd6475db
+4	670	1718118893314522071	CMakeFiles/MyNotes-C++.dir/Chapter4/Pointer_Example.cpp.o	5b42bf304ef44d3a
+670	733	1718118893980323459	MyNotes-C++	a7e6307abd6475db
